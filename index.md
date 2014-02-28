@@ -3,7 +3,7 @@
 ---
 
 # NICAR 2014
-##Github 101 by Jordan McCollough and Ben Balter
+## Github 101 by Jordan McCollough and Ben Balter
 
 ### Chloe Joy
 
